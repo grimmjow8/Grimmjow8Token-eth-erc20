@@ -1,4 +1,4 @@
-eth-erc20-token-Grimmjow8Token
+Grimmjow8Token-eth-erc20
 ===
 Smart contract for the ERC20 Grimmjow8 Token
 
